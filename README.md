@@ -5,6 +5,7 @@ De Spacetime Globe is een didactisch middel dat toelaat om abstracte concepten v
 Tijdens de lessenreeks wordt er gebruik gemaakt van een [werkbundel](Ontdekkingsbundel(2)-1.pdf) en een [theoriebundel](TheoriebundelFINAL-3.pdf). Leerlingen voeren in groepjes de opdrachten in de werkbundel uit. Op het einde van de les ontvangen ze het deel van de theoriebundel dat met de geziene leerstof overeenkomt. Voor ieder deel van de werkbundel is er ook een overeenkomende BookWidget opdracht. 
 
 [Opdracht 1](https://www.bookwidgets.com/play/t:yRahNHrbxGeW2jSHRP1DFfuU-YtWR-UW3267staQF5pIR0xXMkhY)
+<br />
 [Opdracht 2](https://www.bookwidgets.com/play/t:FnydcK6HsAiKq_fMmiw259AJw8Wu8COD-ayo7MjgEQ1HR00zQUdL)
 [Opdracht 3](https://www.bookwidgets.com/play/t:Gir2BmS-u9aOirupurVm-ZO2wRoltyjNBDD5CRpws_BGR01aUEZB)
 [Opdracht 4](https://www.bookwidgets.com/play/t:13tPyye9jG7mX7aqCZHheHPc8fuokPwlBMVqYvQ-j0szR04yNDNL)
