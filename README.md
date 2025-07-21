@@ -7,13 +7,17 @@ Tijdens de lessenreeks wordt er gebruik gemaakt van een [werkbundel](Ontdekkings
 [Opdracht 1](https://www.bookwidgets.com/play/t:yRahNHrbxGeW2jSHRP1DFfuU-YtWR-UW3267staQF5pIR0xXMkhY)
 <br />
 [Opdracht 2](https://www.bookwidgets.com/play/t:FnydcK6HsAiKq_fMmiw259AJw8Wu8COD-ayo7MjgEQ1HR00zQUdL)
+<br />
 [Opdracht 3](https://www.bookwidgets.com/play/t:Gir2BmS-u9aOirupurVm-ZO2wRoltyjNBDD5CRpws_BGR01aUEZB)
+<br />
 [Opdracht 4](https://www.bookwidgets.com/play/t:13tPyye9jG7mX7aqCZHheHPc8fuokPwlBMVqYvQ-j0szR04yNDNL)
+<br />
 [Opdracht 5](https://www.bookwidgets.com/play/t:U51zFOo9RLzzPq0LPEXh7yBAw1oxT4LwAcXoDVvqb3xIR1pVSEg1)
 
 Voor het begin van de eerste les worden leerlingen ook gevraagd om twee youtube video's te bekijken.
 
 [Video 1](https://www.youtube.com/watch?v=9mZ-22AS8wI)
+<br />
 [Video 2](https://www.youtube.com/watch?v=1N4jNB1C-5M)
 
 # Bestanden
