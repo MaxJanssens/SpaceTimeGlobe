@@ -21,5 +21,5 @@ Voor het begin van de eerste les worden leerlingen ook gevraagd om twee youtube 
 [Video 2](https://www.youtube.com/watch?v=1N4jNB1C-5M)
 
 # Bestanden
-De nodige bestanden om zelf een Spacetime Globe te construeren zijn op [deze](https://github.com/Allyson-Robert/SpaceTimeGlobe) terug te vinden. De handleiding biedt instructies aan voor het bouwen van het rooster.
+De nodige bestanden om zelf een Spacetime Globe te construeren zijn op [deze pagina](https://github.com/Allyson-Robert/SpaceTimeGlobe) terug te vinden. De handleiding biedt instructies aan voor het bouwen van het rooster.
 
