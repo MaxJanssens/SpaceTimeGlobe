@@ -4,15 +4,15 @@ De Spacetime Globe is een didactisch middel dat toelaat om abstracte concepten v
 # Lesmateriaal
 Tijdens de lessenreeks wordt er gebruik gemaakt van een [werkbundel](Ontdekkingsbundel_Final-2_compressed.pdf) en een [theoriebundel](Theoriebundel_speciale_relativiteit_compressed.pdf). Leerlingen voeren in groepjes de opdrachten in de werkbundel uit. Op het einde van de les ontvangen ze het deel van de theoriebundel dat met de geziene leerstof overeenkomt. Voor ieder deel van de werkbundel is er ook een overeenkomende BookWidget opdracht. 
 
-[Opdracht 1](https://www.bookwidgets.com/play/t:yRahNHrbxGeW2jSHRP1DFfuU-YtWR-UW3267staQF5pIR0xXMkhY)
+[Opdracht 1](https://www.bookwidgets.com/play/t:0_tZt68CNRBGoe6J2d2pM0Wee-Z4qLBjQGB8oJWVhRhUSEVWTFRY)
 <br />
-[Opdracht 2](https://www.bookwidgets.com/play/t:FnydcK6HsAiKq_fMmiw259AJw8Wu8COD-ayo7MjgEQ1HR00zQUdL)
+[Opdracht 2](https://www.bookwidgets.com/play/t:DfuMiYDG2vnxQB99xFp5PyAJNgbYm5k9u7Q9McIU7cBESEVYOUQ0)
 <br />
-[Opdracht 3](https://www.bookwidgets.com/play/t:Gir2BmS-u9aOirupurVm-ZO2wRoltyjNBDD5CRpws_BGR01aUEZB)
+[Opdracht 3](https://www.bookwidgets.com/play/t:okd-H2hR3_XdguvaXSmUhJMvUpGuKart2JL2cJbshNpLSEZEUUtT)
 <br />
-[Opdracht 4](https://www.bookwidgets.com/play/t:13tPyye9jG7mX7aqCZHheHPc8fuokPwlBMVqYvQ-j0szR04yNDNL)
+[Opdracht 4](https://www.bookwidgets.com/play/t:1qQQ8a-93yLLl3C9KdGBe0kARgxYj-PQ6aggdRNtvSZTSEU5NlMz)
 <br />
-[Opdracht 5](https://www.bookwidgets.com/play/t:U51zFOo9RLzzPq0LPEXh7yBAw1oxT4LwAcXoDVvqb3xIR1pVSEg1)
+[Opdracht 5](https://www.bookwidgets.com/play/t:b9M7hjy7lhvn6oZRE_TcmzIvOBxHze43fDHKkPIoMQg5SEUyWDlL)
 
 Voor het begin van de eerste les worden leerlingen ook gevraagd om twee youtube video's te bekijken.
 
